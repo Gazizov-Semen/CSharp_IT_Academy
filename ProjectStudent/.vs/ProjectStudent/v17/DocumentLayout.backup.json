@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1207\\source\\repos\\ProjectStudent\\",
+  "WorkspaceRootPath": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\ProjectStudent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|c:\\users\\1207\\source\\repos\\projectstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|j:\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\csharp\\projectstudent\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|solutionrelative:savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|c:\\users\\1207\\source\\repos\\projectstudent\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|solutionrelative:actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|c:\\users\\1207\\source\\repos\\projectstudent\\elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|j:\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\csharp\\projectstudent\\elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|solutionrelative:elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|c:\\users\\1207\\source\\repos\\projectstudent\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|solutionrelative:savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|j:\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\csharp\\projectstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|j:\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\csharp\\projectstudent\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A7F3AC-BD4B-4283-9753-4050CF629669}|ProjectStudent.csproj|solutionrelative:actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SaveData.cs",
-              "DocumentMoniker": "C:\\Users\\1207\\source\\repos\\ProjectStudent\\SaveData.cs",
+              "DocumentMoniker": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\ProjectStudent\\SaveData.cs",
               "RelativeDocumentMoniker": "SaveData.cs",
-              "ToolTip": "C:\\Users\\1207\\source\\repos\\ProjectStudent\\SaveData.cs",
+              "ToolTip": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\ProjectStudent\\SaveData.cs",
               "RelativeToolTip": "SaveData.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAASwBQAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T00:45:53.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Elements.cs",
-              "DocumentMoniker": "C:\\Users\\1207\\source\\repos\\ProjectStudent\\Elements.cs",
+              "DocumentMoniker": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\ProjectStudent\\Elements.cs",
               "RelativeDocumentMoniker": "Elements.cs",
-              "ToolTip": "C:\\Users\\1207\\source\\repos\\ProjectStudent\\Elements.cs",
+              "ToolTip": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\ProjectStudent\\Elements.cs",
               "RelativeToolTip": "Elements.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAA4wEYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAA1wEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T00:38:41.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Actions.cs",
-              "DocumentMoniker": "C:\\Users\\1207\\source\\repos\\ProjectStudent\\Actions.cs",
+              "DocumentMoniker": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\ProjectStudent\\Actions.cs",
               "RelativeDocumentMoniker": "Actions.cs",
-              "ToolTip": "C:\\Users\\1207\\source\\repos\\ProjectStudent\\Actions.cs",
+              "ToolTip": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\ProjectStudent\\Actions.cs",
               "RelativeToolTip": "Actions.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T00:38:04.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T00:38:04.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\1207\\source\\repos\\ProjectStudent\\Program.cs",
+              "DocumentMoniker": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\ProjectStudent\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\1207\\source\\repos\\ProjectStudent\\Program.cs",
+              "ToolTip": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\ProjectStudent\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T00:37:02.784Z",
               "EditorCaption": ""

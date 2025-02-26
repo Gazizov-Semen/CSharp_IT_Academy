@@ -70,7 +70,7 @@ public class Grade
 public class Student
 {
     [Key]
-    public int Id { get; }
+    public int Id { get; set; }
     public string Name { get; set; }
     public List<Grade> Grades { get; private set; }
 

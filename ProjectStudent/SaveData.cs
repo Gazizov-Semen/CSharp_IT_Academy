@@ -18,7 +18,7 @@ public class ApplicationContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlite("Data Source=C:/Users/1207/source/repos/ProjectStudent/Database.db");
+        optionsBuilder.UseSqlite("Data Source=J:/Университет/CSharp/ProjectStudent/Database.db");
     }
 
 
