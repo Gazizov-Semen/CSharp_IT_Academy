@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "aq2dAKtKKDk=",
@@ -5,4 +6,13 @@
   "projectFilePath": "J:\\Университет\\CSharp\\LR5\\LR5\\LR5\\LR5.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "aq2dAKtKKDk=",
+  "success": true,
+  "projectFilePath": "J:\\Университет\\CSharp\\LR5\\LR5\\LR5\\LR5.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> c59f26120e21339f454fe3f8b89b7d34945767e6
 }

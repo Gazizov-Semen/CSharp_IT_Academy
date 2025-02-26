@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "k5uLb/kRb+g=",
@@ -5,4 +6,13 @@
   "projectFilePath": "J:\\Университет\\CSharp\\LR1\\LR1\\LR1.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "ZFClldUcYlk=",
+  "success": true,
+  "projectFilePath": "S:\\ФЭиА\\ИСиТ-22\\С# Академия\\Газизов\\LR1\\LR1\\LR1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> c59f26120e21339f454fe3f8b89b7d34945767e6
 }

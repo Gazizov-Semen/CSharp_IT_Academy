@@ -1,0 +1,15 @@
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\bin\Debug\net8.0\LR1.exe
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\bin\Debug\net8.0\LR1.deps.json
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\bin\Debug\net8.0\LR1.runtimeconfig.json
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\bin\Debug\net8.0\LR1.dll
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\bin\Debug\net8.0\LR1.pdb
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\LR1.AssemblyInfoInputs.cache
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\LR1.AssemblyInfo.cs
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\LR1.csproj.CoreCompileInputs.cache
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\LR1.dll
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\refint\LR1.dll
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\LR1.pdb
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\LR1.genruntimeconfig.cache
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\ref\LR1.dll
+S:\ФЭиА\ИСиТ-22\С# Академия\Газизов\LR1\LR1\obj\Debug\net8.0\LR1.sourcelink.json
