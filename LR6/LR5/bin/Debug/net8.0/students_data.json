@@ -1,0 +1,13 @@
+[
+  {
+    "CourseName": "\u041F\u0440\u0438-22",
+    "StudentId": 1,
+    "StudentName": "\u0427\u0435\u0447\u0438\u043A\u043E\u0432 \u0412\u043B\u0430\u0434",
+    "Grades": [
+      {
+        "Subject": 1,
+        "Score": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+﻿@page "/students"
+@inject ApplicationDbContext dbContext
+@using Microsoft.EntityFrameworkCore
+@using StudentProject.Models
+@implements IDisposable
+
+<h3>Students</h3>
+
+<input @bind="newStudentName" placeholder="Student Name" />
+<button @onclick="AddStudent">Add Student</button>
+
+<ul>
+    @foreach (var student in students)
+    {
+        <li>
+            @student.Name
+            <button @onclick="() => RemoveStudent(student.Id)">Remove</button>
+            <button @onclick="() => LoadGrades(student.Id)">Grades</button>
+        </li>
+    }
+</ul>
+
+@if (selectedStudentGrades != null)
+{
+    <h4>Grades for @selectedStudent.Name</h4>
+    <ul>
+        @foreach (var grade in selectedStudentGrades)
+        {
+            <li>
+                @grade.Subject: @grade.Score
+                <button @onclick="() => RemoveGrade(grade.Id)">Remove</button>
+            </li>
+        }
+    </ul>
+}
+
+@code {
+    public List<Student> students = new();
+    public string newStudentName;
+    public Student selectedStudent;
+    public List<Grade> selectedStudentGrades;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadStudents();
+    }
+
+    public async Task LoadStudents()
+    {
+        students = await dbContext.Students.Include(s => s.Grades).ToListAsync();
+    }
+
+    public async Task AddStudent()
+    {
+        var student = new Student { Name = newStudentName };
+        dbContext.Students.Add(student);
+        await dbContext.SaveChangesAsync();
+        newStudentName = string.Empty;
+        await LoadStudents();
+    }
+
+    public async Task RemoveStudent(int studentId)
+    {
+        var student = await dbContext.Students.FindAsync(studentId);
+        dbContext.Students.Remove(student);
+        await dbContext.SaveChangesAsync();
+        await LoadStudents();
+    }
+
+    public async Task LoadGrades(int studentId)
+    {
+        selectedStudent = await dbContext.Students.Include(s => s.Grades).FirstOrDefaultAsync(s => s.Id == studentId);
+        selectedStudentGrades = selectedStudent.Grades.ToList();
+    }
+
+    public async Task RemoveGrade(int gradeId)
+    {
+        var grade = await dbContext.Grades.FindAsync(gradeId);
+        dbContext.Grades.Remove(grade);
+        await dbContext.SaveChangesAsync();
+        await LoadGrades(selectedStudent.Id);
+    }
+
+    public void Dispose()
+    {
+        dbContext.Dispose();
+    }
+}

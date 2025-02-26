@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\Lr1\\LR1\\",
+  "WorkspaceRootPath": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\LR1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A80C65E-8C58-46C4-9933-BAC9720BA823}|LR1\\LR1.csproj|j:\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\csharp\\lr1\\lr1\\lr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A80C65E-8C58-46C4-9933-BAC9720BA823}|LR1\\LR1.csproj|j:\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\csharp\\lr1\\lr1\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A80C65E-8C58-46C4-9933-BAC9720BA823}|LR1\\LR1.csproj|solutionrelative:lr1\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A80C65E-8C58-46C4-9933-BAC9720BA823}|LR1\\LR1.csproj|j:\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\csharp\\lr1\\lr1\\grades_creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A80C65E-8C58-46C4-9933-BAC9720BA823}|LR1\\LR1.csproj|solutionrelative:lr1\\grades_creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A80C65E-8C58-46C4-9933-BAC9720BA823}|LR1\\LR1.csproj|j:\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\csharp\\lr1\\lr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A80C65E-8C58-46C4-9933-BAC9720BA823}|LR1\\LR1.csproj|solutionrelative:lr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,23 +22,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Grades_Creator.cs",
+              "DocumentMoniker": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\LR1\\LR1\\Grades_Creator.cs",
+              "RelativeDocumentMoniker": "LR1\\Grades_Creator.cs",
+              "ToolTip": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\LR1\\LR1\\Grades_Creator.cs",
+              "RelativeToolTip": "LR1\\Grades_Creator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:47:44.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\Lr1\\LR1\\LR1\\Program.cs",
+              "DocumentMoniker": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\LR1\\LR1\\Program.cs",
               "RelativeDocumentMoniker": "LR1\\Program.cs",
-              "ToolTip": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\Lr1\\LR1\\LR1\\Program.cs",
+              "ToolTip": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\LR1\\LR1\\Program.cs",
               "RelativeToolTip": "LR1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T14:14:19.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actions.cs",
+              "DocumentMoniker": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\LR1\\LR1\\Actions.cs",
+              "RelativeDocumentMoniker": "LR1\\Actions.cs",
+              "ToolTip": "J:\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\CSharp\\LR1\\LR1\\Actions.cs",
+              "RelativeToolTip": "LR1\\Actions.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowG0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:57:15.609Z",
               "EditorCaption": ""
             }
           ]

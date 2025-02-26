@@ -1,0 +1,15 @@
+J:\Университет\CSharp\LR5\LR5\LR5\bin\Debug\net8.0\LR5.exe
+J:\Университет\CSharp\LR5\LR5\LR5\bin\Debug\net8.0\LR5.deps.json
+J:\Университет\CSharp\LR5\LR5\LR5\bin\Debug\net8.0\LR5.runtimeconfig.json
+J:\Университет\CSharp\LR5\LR5\LR5\bin\Debug\net8.0\LR5.dll
+J:\Университет\CSharp\LR5\LR5\LR5\bin\Debug\net8.0\LR5.pdb
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\LR5.GeneratedMSBuildEditorConfig.editorconfig
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\LR5.AssemblyInfoInputs.cache
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\LR5.AssemblyInfo.cs
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\LR5.csproj.CoreCompileInputs.cache
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\LR5.sourcelink.json
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\LR5.dll
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\refint\LR5.dll
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\LR5.pdb
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\LR5.genruntimeconfig.cache
+J:\Университет\CSharp\LR5\LR5\LR5\obj\Debug\net8.0\ref\LR5.dll

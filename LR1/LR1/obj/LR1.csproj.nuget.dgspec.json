@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Университет\\CSharp\\Lr1\\LR1\\LR1\\LR1.csproj": {}
+    "J:\\Университет\\CSharp\\LR1\\LR1\\LR1.csproj": {}
   },
   "projects": {
-    "J:\\Университет\\CSharp\\Lr1\\LR1\\LR1\\LR1.csproj": {
+    "J:\\Университет\\CSharp\\LR1\\LR1\\LR1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Университет\\CSharp\\Lr1\\LR1\\LR1\\LR1.csproj",
+        "projectUniqueName": "J:\\Университет\\CSharp\\LR1\\LR1\\LR1.csproj",
         "projectName": "LR1",
-        "projectPath": "J:\\Университет\\CSharp\\Lr1\\LR1\\LR1\\LR1.csproj",
+        "projectPath": "J:\\Университет\\CSharp\\LR1\\LR1\\LR1.csproj",
         "packagesPath": "C:\\Users\\Krusa\\.nuget\\packages\\",
-        "outputPath": "J:\\Университет\\CSharp\\Lr1\\LR1\\LR1\\obj\\",
+        "outputPath": "J:\\Университет\\CSharp\\LR1\\LR1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Krusa\\AppData\\Roaming\\NuGet\\NuGet.Config",
